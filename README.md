@@ -24,7 +24,7 @@
 
 :small_blue_diamond: [Fale conosco](#fale-conosco)
 
-### Descrição
+## Descrição
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/99593009/180662394-a1ee59e9-a3f8-46e4-815b-61bcfcce8b81.png"/>
@@ -34,7 +34,7 @@
 
 
 
-### Objetivos
+## Objetivos
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/99593009/180661826-ee579607-b633-4626-a987-0b6bc57c1f4d.png"/>
