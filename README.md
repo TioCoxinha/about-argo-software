@@ -6,13 +6,11 @@
 
 <img width="160px" height="20px" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
 
-<h4 align="center"> 
-    :construction:  Em desenvolvimento  :construction:
-</h4>
-
 <p>Este é um repositório sobre a empresa <strong>Argo Software</strong> com informações que são relevantes para que possa saber mais sobre nós.</p>
 
-### Indice 
+<br>
+
+## Indice 
 
 :small_blue_diamond: [Descrição](#descrição)
 
@@ -78,7 +76,7 @@ Cada informação que o cliente passa é importante pra formulação final do pr
 
 <h3>:small_blue_diamond: Sua marca na internet</h3>
 
-A cada ano que passa nos sentimos cada ver mais imerssos na world wide web (Internet), a <strong>Argo software</strong> é o caminho perfeito para colocar sua empresa nos sensores dos internautas.
+A cada ano que passa nos sentimos cada ver mais imersos na world wide web (Internet), a <strong>Argo software</strong> é o caminho perfeito para colocar sua empresa nos sensores dos internautas.
 
 <br>
 
