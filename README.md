@@ -29,10 +29,6 @@
 
 ## Descrição
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/99593009/180662394-a1ee59e9-a3f8-46e4-815b-61bcfcce8b81.png"/>
-</p>
-
 <br>
 
   A <strong>Argo Software</strong> surgiu de uma carência no mercado de desenvolvimento de sites e aplicações na cidade de Arapoti-PR. Atualmente em fase de planejamento, não apenas irá suprir esta necessidade como mais uma empresa de software, mas também como uma das melhores empresas do ramo.
@@ -44,10 +40,6 @@ Saiba mais sobre os nossos trabalhos: [clique aqui](www.google.com)
   <br>
 
 ## Objetivos
-
-<p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/99593009/180661826-ee579607-b633-4626-a987-0b6bc57c1f4d.png"/>
-</P>
 
 <br>
 
