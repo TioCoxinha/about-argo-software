@@ -58,25 +58,25 @@ Todos os trabalhos realizados pela nossa equipe passam por um controle rigoroso 
 
 <h3>:small_blue_diamond: Responsividade</h3>
 
-Todos os nossos trabalhos exigem responsividade, que caso seja o desejo do cliente, pode ser portado para qualquer plataforma. Isto possibilita que pessoas tanto conectadas atráves de computadores ou até mesmo SmartVS ou SmartWachs possam usufruir do software da melhor forma possível em qualquer lugar do planeta.
+Todos os nossos trabalhos exigem responsividade, que caso seja o desejo do cliente, pode ser portado para qualquer plataforma. Isto possibilita que pessoas tanto conectadas atráves de computadores ou até mesmo SmartTV's ou SmartWach's possam aproveitar o software da melhor forma possível em qualquer lugar do planeta e quem sabe um dia até fora dele.
 
 <br>
 
 <h3>:small_blue_diamond: UI/UX</h3>
 
-A interface do usuário é pensada de uma forma a proporcionar a melhor experiência ao usuário, tudo pensado com carinho pela equipe UI/UX. Um dos nossos principais objetivos na interface de usuário e garantir simplicidade e ao mesmo tempo todas as funcionalidades necessárias, utilizando de ferramentas que as pessoas estão mais adaptadas como redes sociais para a inspiração das interfaces.
+A interface do usuário é pensada para que possa proporcionar a melhor experiência ao utilizador, tudo pensado com carinho pela equipe UI/UX. Um dos nossos principais objetivos no quesito interface de usuário, é garantir simplicidade e ao mesmo tempo todas as funcionalidades necessárias, utilizando de ferramentas que as pessoas estão mais adaptadas como redes sociais, para a inspiração das interfaces.
 
 <br>
 
 <h3>:small_blue_diamond: A opnião do cliente é impotante</h3>
 
-Cada informação que o cliente passa é importante pra formulação final do projeto, criando desta forma um projeto que seja a cara do cliente. As informações passadas pelo cliente podem ou não ser viáveis e serão discutidas juntamente com a equipe pra que tudo ocorra da melhor forma para o cliente e os usuários do software em questão.
+Cada informação que o cliente passa é importante pra formulação final do projeto, criando desta forma um projeto que seja satisfatório tanto para o cliente quanto as demais pessoas que irão fazer uso do desenvolvimento. As informações passadas pelo cliente podem ou não ser viáveis e serão discutidas juntamente com a equipe, para que tudo ocorra da melhor forma tanto ao cliente, quanto aos usuários finais do software em questão.
 
 <br>
 
 <h3>:small_blue_diamond: Sua marca na internet</h3>
 
-A cada ano que passa nos sentimos cada ver mais imersos na world wide web (Internet), a <strong>Argo software</strong> é o caminho perfeito para colocar sua empresa nos sensores dos internautas. Hoje ter um endereço na web é essencial caso seu ramo envolva de forma direta ou indireta interação com pessoas com meios de venda e marketing.
+A cada ano que passa nos sentimos cada vez mais imersos na Internet. A <strong>Argo software</strong> é o caminho perfeito para colocar sua empresa nos sensores da Web. Hoje ter um endereço na rede mundial de computadores é essencial, ainda mais em ramos que envolvem de forma direta ou indireta <strong>Interação</strong> com pessoas e com meios de <strong>Venda</strong> e <strong>Marketing Digital</strong>.
 
 <br>
 
