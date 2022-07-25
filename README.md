@@ -46,7 +46,7 @@ Saiba mais sobre os nossos trabalhos: [clique aqui](www.google.com)
   
   <br>
   
-  Veja a lista completa de nossos objetivos: [clique aqui](www.google.com)
+  Veja a lista completa de nossos objetivos [clique aqui](www.google.com)
   
   <br>
 
@@ -58,25 +58,25 @@ Todos os trabalhos realizados pela nossa equipe passam por um controle rigoroso 
 
 <h3>:small_blue_diamond: Responsividade</h3>
 
-Todos os nossos trabalhos podem ser responsivos e caso seja o desejo do cliente ele pode ser portado para qualquer plataforma.
+Todos os nossos trabalhos exigem responsividade, que caso seja o desejo do cliente, pode ser portado para qualquer plataforma. Isto possibilita que pessoas tanto conectadas atráves de computadores ou até mesmo SartVS ou SmartWachs possam usufruir do software da melhor forma possível em qualquer lugar do planeta.
 
 <br>
 
 <h3>:small_blue_diamond: UI/UX</h3>
 
-A interface do usuário é pensada de uma forma a proporcionar a melhor experiência ao usuário, tudo pensado com carinho pela equipe UI/UX.
+A interface do usuário é pensada de uma forma a proporcionar a melhor experiência ao usuário, tudo pensado com carinho pela equipe UI/UX. Um dos nossos principais objetivos na interface de usuário e garantir simplicidade e ao mesmo tempo todas as funcionalidades necessárias, utilizando de ferramentas que as pessoas estão mais adaptadas como redes sociais para a inspiração das interfaces.
 
 <br>
 
 <h3>:small_blue_diamond: A opnião do cliente é impotante</h3>
 
-Cada informação que o cliente passa é importante pra formulação final do projeto, criando desta forma um projeto que seja a cara do cliente.
+Cada informação que o cliente passa é importante pra formulação final do projeto, criando desta forma um projeto que seja a cara do cliente. As informações passadas pelo cliente podem ou não ser viáveis e serão discutidas juntamente com a equipe pra que tudo ocorra da melhor forma para o cliente e os usuários do software em questão.
 
 <br>
 
 <h3>:small_blue_diamond: Sua marca na internet</h3>
 
-A cada ano que passa nos sentimos cada ver mais imersos na world wide web (Internet), a <strong>Argo software</strong> é o caminho perfeito para colocar sua empresa nos sensores dos internautas.
+A cada ano que passa nos sentimos cada ver mais imersos na world wide web (Internet), a <strong>Argo software</strong> é o caminho perfeito para colocar sua empresa nos sensores dos internautas. Hoje ter um endereço na web é essencial caso seu ramo envolva de forma direta ou indireta interação com pessoas com meios de venda e marketing.
 
 <br>
 
@@ -84,7 +84,7 @@ A cada ano que passa nos sentimos cada ver mais imersos na world wide web (Inter
 
 <br>
 
-Você pode aprender mais sobre os termos utilizados nesta página: [clique aqui](www.google.com)
+Você pode aprender mais sobre os termos utilizados nesta página e emtender melhor nossas políticas de tabalho [clicando aqui](www.google.com)
 
 <br>
 
