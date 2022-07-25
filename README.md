@@ -84,7 +84,7 @@ A cada ano que passa nos sentimos cada vez mais imersos na Internet. A <strong>A
 
 <br>
 
-Você pode aprender mais sobre os termos e ferramentas utilizados no dia-a-dia dos desenvolvedores, entender as políticas de tabalho e saber quais ferramentas mais utilizamos [clicando aqui.](www.google.com)
+Você pode aprender mais sobre os termos, ferramentas utilizadas no dia-a-dia dos desenvolvedores, entender as políticas de tabalho e saber quais ferramentas mais utilizamos [clicando aqui.](www.google.com)
 
 <br>
 
