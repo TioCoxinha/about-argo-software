@@ -33,7 +33,7 @@
   
   <br>
   
-Saiba mais sobre os nossos trabalhos: [clique aqui](www.google.com)
+Saiba mais sobre os nossos trabalhos [clicando aqui](www.google.com)
   
   <br>
 
@@ -46,7 +46,7 @@ Saiba mais sobre os nossos trabalhos: [clique aqui](www.google.com)
   
   <br>
   
-  Veja a lista completa de nossos objetivos [clique aqui](www.google.com)
+  Veja a lista completa de nossos objetivos [clicando aqui](www.google.com)
   
   <br>
 
@@ -58,7 +58,7 @@ Todos os trabalhos realizados pela nossa equipe passam por um controle rigoroso 
 
 <h3>:small_blue_diamond: Responsividade</h3>
 
-Todos os nossos trabalhos exigem responsividade, que caso seja o desejo do cliente, pode ser portado para qualquer plataforma. Isto possibilita que pessoas tanto conectadas atráves de computadores ou até mesmo SartVS ou SmartWachs possam usufruir do software da melhor forma possível em qualquer lugar do planeta.
+Todos os nossos trabalhos exigem responsividade, que caso seja o desejo do cliente, pode ser portado para qualquer plataforma. Isto possibilita que pessoas tanto conectadas atráves de computadores ou até mesmo SmartVS ou SmartWachs possam usufruir do software da melhor forma possível em qualquer lugar do planeta.
 
 <br>
 
@@ -84,7 +84,7 @@ A cada ano que passa nos sentimos cada ver mais imersos na world wide web (Inter
 
 <br>
 
-Você pode aprender mais sobre os termos utilizados nesta página e emtender melhor nossas políticas de tabalho [clicando aqui](www.google.com)
+Você pode aprender mais sobre os termos e ferramentas utilizados no dia-a-dia dos desenvolvedores, entender as políticas de tabalho e saber quais ferramentas mais utilizamos [clicando aqui](www.google.com)
 
 <br>
 
